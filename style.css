@@ -124,11 +124,23 @@ h3{
   /* margin-top: -3px; */
 }
 
-.footer{
+p{
   display: flex;
   justify-content: center;
   font-size: 13px;
-  word-spacing: 5px;
+  color: grey;
 }
 
+.footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 13px;
+  word-spacing: 5px;
+  width: 100%;
+}
 
+.logo-footer{
+  width: 5%;
+  margin-right: 10px;
+}
